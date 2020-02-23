@@ -1,0 +1,21 @@
+﻿Only put Prefix And Token And your id
+In config.json
+
+and start bot
+
+If you Want Use Command (ro) you Need To Dawnload This > http://www.mediafire.com/file/ycx2gxqpyo4map7/ffmpeg.exe/file
+
+And Just Copy It And Put It in Bot Folder
+
+Some Error Will Get You , mayber
+
+So Just Close and Open Cmd.
+
+This Will End Proplem.
+
+All Of This Folder Is Made By Shadow Only.
+©Shadow.
+
+For Help connect me , My id : ( 540088719802105856 )
+
+Don't Send It TO Any One Before Ask Me , Please.
